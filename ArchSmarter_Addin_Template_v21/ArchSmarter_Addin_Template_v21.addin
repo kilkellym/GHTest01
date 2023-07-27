@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>ArchSmarter_Addin_Template_v21 - Command 1</Text>
+    <Description>Some description for ArchSmarter_Addin_Template_v21</Description>
+    <Assembly>ArchSmarter_Addin_Template_v21.dll</Assembly>
+    <FullClassName>ArchSmarter_Addin_Template_v21.Command1</FullClassName>
+    <ClientId>92f721aa-3b5a-4f40-823b-50f879490a71</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>ArchSmarter_Addin_Template_v21 - Command 2</Text>
+    <Description>Some description for ArchSmarter_Addin_Template_v21</Description>
+    <Assembly>ArchSmarter_Addin_Template_v21.dll</Assembly>
+    <FullClassName>ArchSmarter_Addin_Template_v21.Command2</FullClassName>
+    <ClientId>67b77e40-da91-42dc-b112-f900d262ee4e</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>ArchSmarter_Addin_Template_v21</Name>
+    <Assembly>ArchSmarter_Addin_Template_v21.dll</Assembly>
+    <FullClassName>ArchSmarter_Addin_Template_v21.App</FullClassName>
+    <ClientId>c88ae0cc-1057-40b6-86ab-59d1ab66073b</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
